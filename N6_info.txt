@@ -1,0 +1,69 @@
+N6. ELECTORATE BEHAVIOR DURING 2004 SPAIN ELECTIONS
+
+Author:
+
+José Luis Sáez Lozano - Universidad de Granada
+
+josaez@ugr.es
+
+Collaborators:
+
+Jesús Horno Cobo (lead)
+
+Alejandro Labrador Ledesma
+
+Ángel Luis Hans Siria
+
+Jessica González Saenz
+
+Antonio Paredes Moreno
+
+Jorge Calvo Martín
+
+Xavier Seguí Salom
+
+Brief: General elections of march the 14th of 2004 (14-M) will be remembered as the
+
+elections preceded by the march the 11th attack (11-M). The pre-election surveys
+
+before 11-M gave triumph to PP (Partido Popular). After the attack, as time went by,
+
+the behaviour of a big amount of voters changed in such a way that the ultimate
+
+winner was PSOE (Partido Socialista Obrero Español).
+
+The electoral law in Spain does not allow to publish electoral surveys results within the
+
+six previous days before de voting. For that reason, we don't have any study that allow
+
+us to identify the psicological factors that lead to that change. We don't have a group
+
+of fixed people who were asked before and after the polls either. Definitely, we don't
+
+have any cualitative studies that give us information about the reasons for the change
+
+of mind in the individual vote.
+
+From my little knowledge of the multiagent modeling, I think that the reasons that made
+
+the change in vote orientation could be modeled from factors related to individual
+
+behaviour. We have the pre-election survey from the CIS (Centro de Investigaciones
+
+Sociológicas), that give us information about the variables that explain the electoral
+
+behaviour. From that data, we can simulate how the attack affects the voters. We may
+
+select those electors who said that will vote PP and try to make a model to know why a
+
+big amount of them decided to refuse or change their votes.
+
+Which factors affect the PP electors to made them change their mind?
+
+The decision of an elector is based on many factors depending of the theory we use
+
+to describe the model.
+
+Key question: Which factors affected PP electors, and why did they change their
+
+mind after the 11-M attacks?
