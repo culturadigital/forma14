@@ -1,0 +1,61 @@
+N2. HOSTING CAPACITY OF EL PALMAR DE LA FRONTERA
+
+Authors:
+
+Antonio Piñero Valverde - Universidad de Sevilla
+
+anpival@us.es
+
+Irene Luque Martín
+
+Collaborators:
+
+Gonzalo Antonio Aranda Corral (lead)
+
+Daniel Corzo García
+
+Guillermo de la Cruz Dorado
+
+Jorge Calvo Martín
+
+David Sánchez Martínez
+
+Paloma Rubio Rodríguez
+
+Enrique Soler Santos
+
+Myriam González Limón
+
+Brief: The purpose of the model is through the concept of carrying capacity of El
+
+Palmar in Vejer de la Frontera, found in the urban planning process: which of the
+
+proposals capacity host user creates a better balance between the three principals
+
+impacts by an intervention of urban planning: social, economic and environmental
+
+impact.
+
+The objective of this model is the approach of urban scale simulation. The process
+
+model is divided into two scenarios: baseline to the input data, and execution of 80
+
+ticks which equals the study performed 20 years after ordination. The first is when we
+
+select the increase (PI, SI or TI), select whether or not seasonal pattern, and spatial
+
+distribution of agents occurs. Once distributed agents begin ticks every four ticks the
+
+counter is reset. This means that the occupancy level discussed in previous sections,
+
+corresponding to four ticks, so the functions of ticks occur 80 times, but every four
+
+ticks are generated different situations because of the 4 quarters of a year. The status
+
+of each agent begins execution and occurs in the appended order functions. Once
+
+done the whole process, in each graph of the environmental, social and landscape
+
+impacts and a joint graph where we see the consequences of proposed urban model.
+
+Key question: What is the optimal hosting capacity of El Palmar?
