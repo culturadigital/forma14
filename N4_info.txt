@@ -1,0 +1,89 @@
+N4. PEDESTRIANIZATION OF THE HISTORICAL CENTRE OF
+
+QUITO. A WAY TO THE CONSERVATION OF THE CULTURAL
+
+HERITAGE.
+
+Authors:
+
+Elizabeth Regalado Bolaños - Universidad Central de Ecuador
+
+Iván Medina Carranco - Universidad Central de Ecuador
+
+Zoila Ruiz Chávez - Universidad Central de Ecuador
+
+Collaborators:
+
+David Solís Martín (lead) - Universidad de Sevilla
+
+Francisco Manuel Sanchez Castillo
+
+Juan Luis Sánchez Fuentes
+
+Andrés José Prieto Ibáñez
+
+Jose Miguel Hernandez Segura
+
+Juan Francisco Ojeda Jiménez
+
+Alejandro Romero Reche
+
+Mónica Rueda García
+
+Brief: Ecuador is currently promoting tourism as an important income source, giving
+
+a greater role to the city of Quito, which was the first city in the world to be given the
+
+status of World Heritage by UNESCO. Quito is one of the most touristic cities in
+
+Ecuador, a tradition that draws mainly from its historic quarter, containing around 130
+
+monumental buildings with a great variety of art styles in sculptures and paintings of
+
+religious nature in its majority. It also contains more than 5000 buildings registered
+
+under the heritage inventory of the National Institute of Cultural Heritage (INPC).
+
+The digital documentation system of the INPC (ABACO) holds the conservation state
+
+of all the (material) cultural entities of the cultural heritage of Ecuador, which shows
+
+the level of conservation risk currently affecting monuments, buildings, public squares
+
+etc. due to the high vehicular traffic in Quito's historic quarter. For this reason, there
+
+is an initiative to pedestrianize the aforementioned quarter as a means to protect and
+
+conserve the heritage in this area.
+
+For the authorities of the city of Quito, this initiative has become an unfulfilled target.
+
+The proposal has been considered several times but however, it has not been possible
+
+to implement so far. Being this pedestrianization a fundamental strategy for the
+
+conservation of the cultural heritage, the present study attempts cast light on the
+
+evaluation of the different proposals for such intervention. This is, an attempt to
+
+develop a tool that will allow to test different scenarios, visualizing, identifying and
+
+fixing problemswithout having to implement them for real. The model will become an
+
+aiding tool for managers, experts and authorities in the process of decision making.
+
+The aim is to model the pedestrianization of the historic quarter of Quito, taking into
+
+account the current physical distribution of all the monuments that make up the
+
+cultural heritage of this area. For this purpose, there is data available regarding
+
+streets, buildings and squares in GIS format (from the SNI), and all the monument
+
+conservation data from ABACO, plus all the data regarding public transport from the
+
+municipality of Quito.
+
+Key question: What is the best way to carry out a pedestrianization of the historic
+
+quarter of the city of Quito?
