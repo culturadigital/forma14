@@ -1,84 +1,151 @@
+N7. COUPLING BETWEEN MESSENGER RNA SYNTHESIS AND
+
+DEGRADATION DURING GENOME EXPRESSION
+
 Authors:
+
 Sebastián Chávez de Diego - Instituto de Biomedicina de Sevilla
+
+schavez@us.es
+
 David Pérez Aguado - Instituto de Biomedicina de Sevilla
+
 María José Chávez de Diego - Universidad de Sevilla
+
 Francisco Romero Campero - Universidad de Sevilla
 
 Collaborators:
+
 Daniel Corzo García
+
 Concepción García Vidal
+
 Pablo Canseco Ortiz
+
 Juan Carlos Cuerda López
+
 Daniel Jurado Sánchez
+
 Javier Boza Farrán
 
 Brief: Genome expression involves the synthesis of messenger RNA (mRNA), a short-
 lived molecule whose translation directs the synthesis of cellular proteins and that is
+
 subject to degradation after the translation process. Up to the date, mRNA synthesis
+
 and degradation has been considered as a linear phenomenon in which the above
+
 steps occur subsequently without a regulatory interconnection. However, gene
+
 expression can be studied as a global system in which all their stages are coupled
+
 and interconnected by regulatory mechanisms. We have contributed to demonstrate
+
 that the machineries of mRNA synthesis and degradation physically and functionally
+
 interact in the cell nucleus. We have proposed that it allows the cross-regulation of
+
 transcription with mRNA degradation and vice versa, giving rise to a circular system,
+
 which would explain the large robustness observed in gene expression (Haimovich et
+
 al, 2013).
 
 Transcription is performed by RNA polymerase in cooperation with a set of auxiliary
+
 factors, and is divided into three phases: initiation, elongation and termination. During
+
 elongation RNA polymerase often undergoes a curious phenomenon of arrest where it
+
 translocates backwards with respect to both the DNA template and the RNA transcript,
+
 without shortening this one (Gómez-Herreros et al, 2012). This backtracking
+
 phenomenon can be reverted through the auxiliary factor TFIIS, allowing the
+
 resumption of mRNA synthesis. Experimental evidence obtained in our laboratory
+
 suggests that the backtracking process could imprint the synthesized mRNA,
+
 conditioning its half-life. Moreover, backtracked polymerases would be the regulatory
+
 targets of the mRNA degradation machinery when acting on the transcriptional
+
 process.
 
 By using the NetLogo software, we have constructed a computational multiagent-
 based model of this system, using the main elements of the machinery of synthesis
+
 and degradation, as well as some of the auxiliary factors.
 
 The minimal transcription/degradation system that we have modelled is composed of
+
 the following elements:
+
 RNA polymerase II; there are other RNA polymerases in eukaryotic cells but we
+
 focus in this because it transcribes protein-encoding genes. When RNA polymerase
+
 II is elongating mRNA can be either active or inactive (backtracked).
+
 TFIIS. This is the factor that promotes the reactivation of backtracked RNA
+
 polymerase II
+
 Ccr4 and Xrn1; these are the two main components of the mRNA degradation
+
 machinery. Xrn1 is a 5’-3’ RNA exonuclease. Ccr4 is the main mRNA 3’ deadenylase.
+
 In addition, Ccr4 is a transcription elongation factor that opposes RNA polymerase II
+
 backtracking.
 
 The continuous variables of the system are the following:
+
 Total amount of RNA polymerases engaged in transcription
+
 Proportion of transcribing RNA plymerases that are active (non backtracked)
+
 Proportion of transcribing RNA plymerases that are active (non backtracked)
+
 mRNA molecules present in the cell
+
 Half-life of the mRNA
 
 These continuous variables can be experimentally measured in a rather accurate
+
 manner. We have chosen GAL1, one of the best characterized genes of the yeast
+
 Saccharomyces cerevisiae, which is our favourite model organism.
+
 The discrete variables of the system are the following:
+
 Presence of the mRNA degradation factors (Yes/No)
+
 Presence of the RNA polymerase II reactivation factors (Yes/No)
+
 Capability of the RNA polymerase II to become backtracked (Yes/No)
+
 Xrn1, Ccr4 and TFIIS are non-essential proteins in yeast. The mutant strains lacking
+
 these factors are viable in standard growth conditions. When compared with the wild
+
 type, mRNA concentrations are surprisingly similar in these strains. The modelling of
+
 the system should allow explaining the robustness of the mRNA synthesis/degradation
+
 system.
 
 This work is part of the project entitled "Crosstalk between transcription and mRNA degradation: influence of
+
 chromatin and RNA polymerase II backtracking", financed by The Spanish Ministry of Economy and
+
 Competitiveness (MINECO) (grant BFU2013-48643-C3-1-P). Although carried out in a yeast experimental
+
 system, the high degree of evolutionary conservation of gene expression mechanisms makes this work of
+
 general interest for Biology and Biomedicine.
 
 Key question: Is there a cross-regulation between mRNA synthesis and degradation
-during genome expression?
 
+during genome expression?
